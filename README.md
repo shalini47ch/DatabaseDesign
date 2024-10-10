@@ -17,3 +17,8 @@ Relationships:
 
 One-to-many relationship between todos and subTodos.
 One-to-many relationship between users and both todos and subTodos.
+
+2.Database Design Of Ecommerce 
+
+<img width="608" alt="image" src="https://github.com/user-attachments/assets/0f3bf821-717f-463b-9bcf-40c61cde34ce">
+
